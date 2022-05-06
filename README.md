@@ -16,8 +16,9 @@
 
 <details>
   <summary>:zap: Contacts</summary>
+
   - 📧 Email : [mattheo.mpro@gmail.com](mailto:mattheo.mpro@gmail.com)
-  - :instagram: Instagram : [@mattheodjo](https://www.instagram.com/mattheodjo)
+  - 📷 Instagram : [@mattheodjo](https://www.instagram.com/mattheodjo)
 </details>
 
 
