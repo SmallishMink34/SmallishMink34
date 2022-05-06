@@ -2,8 +2,8 @@
 
 [![Website](https://img.shields.io/website?style=flat-square&up_message=SmallIshMinkDev&url=http%3A%2F%2Fsmallishminkdev.alwaysdata.net)](http://smallishminkdev.alwaysdata.net)
 
-Hello ! I'm a self-taught passionate developper from France
-I'm 18 years old and i trying to become a developper.
+Hello ! I'm a self-taught passionate developper from France <br>
+I'm 18 years old and i trying to become a developper. <br>
 I have touched a bit of everything like software development, website design, 3D modelisation, 2D digital painting and images modifications.
 
 ---
