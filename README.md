@@ -47,8 +47,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <p align="center">
-    <img align="center" alt="SmallIshMink's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SmallishMink34&show_icons=true&theme=dark" style="padding-top:20px;" />
-    <img align="center" alt="SmallIshMink's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmallishMink34&layout=compact" style="padding-top:20px;"/>
+    <img alt="SmallIshMink's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SmallishMink34&show_icons=true&theme=dark" style="margin-top:20px;" />
+    <img alt="SmallIshMink's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmallishMink34&layout=compact" style="margin-top:20px;"/>
   </p>
 </details>
 
