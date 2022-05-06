@@ -14,7 +14,12 @@
 [![website](./img/instagram_white.svg)](https://www.instagram.com/mattheodjo#gh-dark-mode-only)
 [![website](./img/instagram_black.svg)](https://www.instagram.com/mattheodjo#gh-light-mode-only)
 
-- 📧 Email : [mattheo.mpro@gmail.com](mailto:mattheo.mpro@gmail.com)
+<details>
+  <summary>:zap: Contacts</summary>
+  - 📧 Email : [mattheo.mpro@gmail.com](mailto:mattheo.mpro@gmail.com)
+  - :instagram: Instagram : [@mattheodjo](https://www.instagram.com/mattheodjo)
+</details>
+
 
 ### Languages and Tools:
 
@@ -37,11 +42,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
