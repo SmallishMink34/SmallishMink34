@@ -24,7 +24,6 @@ I have touched a bit of everything like software development, website design, 3D
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
@@ -45,7 +44,7 @@ I have touched a bit of everything like software development, website design, 3D
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <p align="center" text-align="center">
+  <p align="center" vertical-align="center">
     <img alt="SmallIshMink's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SmallishMink34&show_icons=true&theme=dark" style="margin-top:20px;" />
     <img alt="SmallIshMink's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmallishMink34&layout=compact" style="margin-top:20px;"/>
   </p>
