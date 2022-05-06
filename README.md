@@ -8,7 +8,7 @@ I have touched a bit of everything like software development, website design, 3D
 
 ---
 
-## I'm a French Studient (18 yo)!
+## I'm a French Studient !
 
 - 🌱 I’m currently learning everything (Python, Java, Php, C)
 - 🥅 2022 Goals: Learn more about C and C++
