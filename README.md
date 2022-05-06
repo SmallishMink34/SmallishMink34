@@ -11,7 +11,6 @@
 
 ### Connect with me:
 &nbsp;
-
 [![website](./img/instagram_white.svg)](https://www.instagram.com/mattheodjo#gh-dark-mode-only)
 [![website](./img/instagram_black.svg)](https://www.instagram.com/mattheodjo#gh-light-mode-only)
 
