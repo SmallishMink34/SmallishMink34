@@ -14,6 +14,8 @@
 [![website](./img/instagram_white.svg)](https://www.instagram.com/mattheodjo#gh-dark-mode-only)
 [![website](./img/instagram_black.svg)](https://www.instagram.com/mattheodjo#gh-light-mode-only)
 
+[![email](./img/email.svg)](mailto:mattheo.mpro@gmail.com)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
