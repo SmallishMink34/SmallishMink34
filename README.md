@@ -9,12 +9,12 @@
 - 🥅 2022 Goals: Learn more about C and C++
 - 🏫 I will enter in a mathematics and computer sciences university in september
 
-### Connect with me:
+### Contact Me:
 &nbsp;
 [![website](./img/instagram_white.svg)](https://www.instagram.com/mattheodjo#gh-dark-mode-only)
 [![website](./img/instagram_black.svg)](https://www.instagram.com/mattheodjo#gh-light-mode-only)
 
-[![email](./img/email.svg)](mailto:mattheo.mpro@gmail.com)
+- 📧 Email : [mattheo.mpro@gmail.com](mailto:mattheo.mpro@gmail.com)
 
 ### Languages and Tools:
 
