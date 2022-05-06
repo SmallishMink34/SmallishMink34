@@ -45,7 +45,7 @@ I have touched a bit of everything like software development, website design, 3D
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <p align="center">
+  <p align="center" text-align="center">
     <img alt="SmallIshMink's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SmallishMink34&show_icons=true&theme=dark" style="margin-top:20px;" />
     <img alt="SmallIshMink's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmallishMink34&layout=compact" style="margin-top:20px;"/>
   </p>
