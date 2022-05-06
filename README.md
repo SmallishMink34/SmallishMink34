@@ -47,8 +47,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="center" width="450px" alt="SmallIshMink's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SmallishMink34&show_icons=true&theme=dark" style="padding-right:10px;" />
-  <img align="center" width="300px" alt="SmallIshMink's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmallishMink34&layout=compact" style="padding-right:10px;"/>
+  <img align="center" alt="SmallIshMink's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SmallishMink34&show_icons=true&theme=dark" style="padding-top:20px;" />
+  <img align="center" alt="SmallIshMink's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmallishMink34&layout=compact" style="padding-top:20px;"/>
 </details>
 
 [website]: http://SmallIshMinkDev.alwaysdata.net
