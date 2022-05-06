@@ -15,7 +15,6 @@ I have touched a bit of everything like software development, website design, 3D
 - 🏫 I will enter in a mathematics and computer sciences university in september
 
 ### Contact Me:
-&nbsp;
   - 📧 Email : [mattheo.mpro@gmail.com](mailto:mattheo.mpro@gmail.com)
   - 📷 Instagram : [@mattheodjo](https://www.instagram.com/mattheodjo)
 
