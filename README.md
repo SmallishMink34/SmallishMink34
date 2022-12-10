@@ -12,7 +12,7 @@ I have touched a bit of everything like software development, website design, 3D
 
 - 🌱 I’m currently learning everything (Python, Java, Php, C)
 - 🥅 2022 Goals: Learn more about C and C++
-- 🏫 I will enter in a mathematics and computer sciences university in september
+- 🏫 I am now in a mathematics and computer sciences university
 
 ### Contact Me:
   - 📧 Email : [mattheo.mpro@gmail.com](mailto:mattheo.mpro@gmail.com)
