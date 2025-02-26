@@ -3,20 +3,20 @@
 [![Website](https://img.shields.io/website?style=flat-square&up_message=SmallIshMinkDev&url=http%3A%2F%2Fsmallishminkdev.alwaysdata.net)](http://smallishminkdev.alwaysdata.net)
 
 Hello! I'm a self-taught passionate developer from France <br>
-I'm 19 years old and I try to become a developer. <br>
+I'm 21 years old and I try to become a developer. <br>
 I have touched a bit of everything like software development, website design, 3D modelisation, 2D digital painting and image modifications.
 
 ---
 
 ## I'm a French Studient !
 
-- 🌱 I’m currently learning everything (Python, Java, Php, C)
-- 🥅 2022 Goals: Learn more about C and C++
+- 🌱 I’m currently learning everything !
+- 🥅 2022 Goals: Learn more about C and C++ ✔️
+🥅 2025 Goals: Obtain my license.
 - 🏫 I am now in a mathematics and computer sciences university
 
 ### Contact Me:
   - 📧 Email : [mattheo.mpro@gmail.com](mailto:mattheo.mpro@gmail.com)
-  - 📷 Instagram : [@mattheodjo](https://www.instagram.com/mattheodjo)
 
 
 
