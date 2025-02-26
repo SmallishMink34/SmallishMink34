@@ -12,7 +12,7 @@ I have touched a bit of everything like software development, website design, 3D
 
 - 🌱 I’m currently learning everything !
 - 🥅 2022 Goals: Learn more about C and C++ ✔️
-🥅 2025 Goals: Obtain my license.
+- 🥅 2025 Goals: Obtain my license.
 - 🏫 I am now in a mathematics and computer sciences university
 
 ### Contact Me:
